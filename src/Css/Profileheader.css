@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.max-width{
+    max-width: 1300px;
+    padding: 0 10px;
+    margin: auto;
+}
+
+.navbar-1{
+    height: 100vh;
+    width: 25%;
+    padding: 70px 60px;
+    float: left;
+    background-color: gray;
+    font-family: 'Ubuntu' , sans-serif;
+}
+
+
+.navbar-1 .menu-1 .text-1{
+    margin-top: 40px;
+   
+}   
+
+.navbar-1 .menu-1 .mail{
+    text-justify:auto;
+    text-decoration: underline;
+    font-size:small;
+    margin-top: 30px;
+}
+
+.navbar-1 .menu-1 .phone{
+    text-justify:auto;
+    text-decoration: underline;
+    font-size:small;
+    margin-top: 25px;
+}
+
+.navbar-1 .menu-1 .fa{
+    margin-top: 10px;
+}
+
+
+/* .navbar .max-width{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar .logo a{
+    color: #fff; 
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.navbar .menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 15px;
+} */
